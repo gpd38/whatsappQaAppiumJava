@@ -29,14 +29,14 @@ Atualmente os administradores do grupo são:
 |Ramses|31/01/2019|https://marketplace.atlassian.com/apps/1213259/test-management-for-jira?hosting=cloud&tab=overview|
 |Tiago|31/01/2019|https://youtu.be/10Zzlf5DmSI|
 |Tiago|31/01/2019|https://facebook.github.io/react-native/docs/accessibility|
-|Marco|01/02/2019|https://github.com/appium/java-client/blob/master/docs/The-starting-of-an-app-using-Appium-node-server-started-programmatically.md|
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+|Ramses|01/02/2019|https://github.com/appium/java-client/blob/master/docs/The-starting-of-an-app-using-Appium-node-server-started-programmatically.md|
+|Ramses|01/02/2019|https://github.com/appium/appium-dotnet-driver/wiki/How-to-start-an-AppiumDriver-locally|
+|Marco|03/02/2019|https://www.instagram.com/p/BtaYxVko3MG/?utm_source=ig_share_sheet&igshid=xi52xw1x973j|
+|Eduardo|04/02/2019|https://www.npmjs.com/package/html-reporter-mobile-test|
+|Ramses|04/02/2019|https://github.com/facebook/WebDriverAgent/wiki/Class-Chain-Queries-Construction-Rules|
+|Sandra|07/02/2019|https://github.com/dieegom/brumadinho_location|
+|Diogo|11/02/2019|https://github.com/kwoding/sonar-webdriver-plugin|
+|Ramses|11/02/2019|https://docs.adaptavist.io/tm4j/cloud/api/v2/#|
 |   |   |   |
 |   |   |   |
 |   |   |   |
