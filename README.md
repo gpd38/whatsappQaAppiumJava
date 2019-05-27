@@ -45,11 +45,9 @@ Atualmente os administradores do grupo são:
 |   |   |   |
 |   |   |   |
 |   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|Tiago|23/05/2019|https://www.pluralsight.com/guides/getting-started-with-page-object-pattern-for-your-selenium-tests?clickid=Qol2Fy0SPW5ZwtN1mqSMJU4yUkl3bMSB2Stlzg0&irgwc=1&mpid=27795&utm_source=impactradius&utm_medium=digital_affiliate&utm_campaign=27795&aid=7010a000001xAKZAA2|
+|~|21/05/2019|https://testathon.co/more-info---sao-paulo-10th-august/|
+|Israel|21/05/2019|http://www.testathon.com/|
+|Tiago|23/05/2019|[Pluralsight](https://www.pluralsight.com/guides/getting-started-with-page-object-pattern-for-your-selenium-tests?clickid=Qol2Fy0SPW5ZwtN1mqSMJU4yUkl3bMSB2Stlzg0&irgwc=1&mpid=27795&utm_source=impactradius&utm_medium=digital_affiliate&utm_campaign=27795&aid=7010a000001xAKZAA2)|
 |Aldrich|23/05/2019|https://github.com/appium/java-client/blob/master/docs/Page-objects.md|
 |FeLiPe|24/05/2019|https://github.com/appium/appium-doctor/blob/master/README.md|
 |LéL|25/05/2019|https://github.com/menezes-ssz/CucumberAndroidAndIosTestJava/blob/master/pom.xml|
