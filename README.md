@@ -75,3 +75,9 @@ Atualmente os administradores do grupo são:
 |Ramses|27/05/2019|https://www.udemy.com/testes-appium/|
 |   |   |   |
 |   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
