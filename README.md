@@ -40,10 +40,10 @@ Atualmente os administradores do grupo são:
 |   |   |   |
 |   |   |   |
 |   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+|Tiago|26/04/2019|https://johnfergusonsmart.com/page-objects-that-suck-less-tips-for-writing-more-maintainable-page-objects/|
+|Toni|26/04/2019|https://dzone.com/articles/page-objects-refactored-solid-steps-to-the-screenp|
+|Toni|26/04/2019|https://github.com/wix/Detox|
+|Diogo|29/04/2019|https://testflight.apple.com/join/dCHPgTEO|
 |Ramses|07/05/2019|https://github.com/appium/appium/releases|
 |Ramses|13/05/2019|https://github.com/facebookarchive/WebDriverAgent|
 |Ramses|13/05/2019|https://github.com/google/EarlGrey/commits/earlgrey2|
