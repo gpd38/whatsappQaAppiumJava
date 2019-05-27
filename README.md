@@ -40,6 +40,12 @@ Atualmente os administradores do grupo são:
 |   |   |   |
 |   |   |   |
 |   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|Bruno|15/04/2019|[Cursinho de Xcuitest da applitools](https://testautomationu.applitools.com/introduction-to-ios-test-automation-with-xcuitest/?mkt_tok=eyJpIjoiWkRobE1tRTBNamcxTWpBMiIsInQiOiJVV2dCUlhUMnRaeHl2eUVhTWNzNFFkVmRVNDBqTjk3K09BVkZjYUlhRzQyQkV5M3lGQ1RlWFh5SDJwUXVhVTBhTEVMQ1RpYklNTFZkMmE0NkpsTWo4Z0hnXC9yNWlIWFE1cDEwb2VkY3JESEpFYWJ3eTZpZldXNURMcGZIWHdTNGcifQ%3D%3D)|
+|Marco|26/04/2019|https://www.escoladotrabalhador.gov.br/cursos/|
 |Tiago|26/04/2019|https://johnfergusonsmart.com/page-objects-that-suck-less-tips-for-writing-more-maintainable-page-objects/|
 |Toni|26/04/2019|https://dzone.com/articles/page-objects-refactored-solid-steps-to-the-screenp|
 |Toni|26/04/2019|https://github.com/wix/Detox|
