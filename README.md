@@ -54,6 +54,6 @@ Atualmente os administradores do grupo são:
 |   |   |   |
 |   |   |   |
 |   |   |   |
-|   |   |   |
-|   |   |   |
+|Alexandre|27/05/2019|https://www.udemy.com/share/1010nkBEEec11QQXQ=/|
+|Ramses|27/05/2019|https://www.udemy.com/testes-appium/|
 
