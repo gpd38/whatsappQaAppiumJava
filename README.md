@@ -31,7 +31,6 @@ Atualmente os administradores do grupo são:
 |Tiago|31/01/2019|https://facebook.github.io/react-native/docs/accessibility|
 |Ramses|01/02/2019|https://github.com/appium/java-client/blob/master/docs/The-starting-of-an-app-using-Appium-node-server-started-programmatically.md|
 |Ramses|01/02/2019|https://github.com/appium/appium-dotnet-driver/wiki/How-to-start-an-AppiumDriver-locally|
-|Marco|03/02/2019|https://www.instagram.com/p/BtaYxVko3MG/?utm_source=ig_share_sheet&igshid=xi52xw1x973j|
 |Eduardo|04/02/2019|https://www.npmjs.com/package/html-reporter-mobile-test|
 |Ramses|04/02/2019|https://github.com/facebook/WebDriverAgent/wiki/Class-Chain-Queries-Construction-Rules|
 |Sandra|07/02/2019|https://github.com/dieegom/brumadinho_location|
@@ -44,7 +43,7 @@ Atualmente os administradores do grupo são:
 |   |   |   |
 |   |   |   |
 |   |   |   |
-|   |   |   |
+|Aldrich|21/05/2019|https://t.me/SeleniumTest|
 |~|21/05/2019|https://testathon.co/more-info---sao-paulo-10th-august/|
 |Israel|21/05/2019|http://www.testathon.com/|
 |Tiago|23/05/2019|[Pluralsight](https://www.pluralsight.com/guides/getting-started-with-page-object-pattern-for-your-selenium-tests?clickid=Qol2Fy0SPW5ZwtN1mqSMJU4yUkl3bMSB2Stlzg0&irgwc=1&mpid=27795&utm_source=impactradius&utm_medium=digital_affiliate&utm_campaign=27795&aid=7010a000001xAKZAA2)|
