@@ -43,6 +43,14 @@ Atualmente os administradores do grupo são:
 |   |   |   |
 |   |   |   |
 |   |   |   |
+|   |   |   |
+|Ramses|07/05/2019|https://github.com/appium/appium/releases|
+|Ramses|13/05/2019|https://github.com/facebookarchive/WebDriverAgent|
+|Ramses|13/05/2019|https://github.com/google/EarlGrey/commits/earlgrey2|
+|Gabi's|17/05/2019|http://meetu.ps/e/GJV1v/GtQps/a|
+|João|21/05/2019|[Stackoverflow](https://pt.stackoverflow.com/questions/94620/qual-a-melhor-maneira-mais-r%C3%A1pida-de-ler-um-arquivo-de-um-servidor-web)|
+|João|21/05/2019|https://pt.switch-case.com/60226677|
+|Ramses|21/05/2019|http://agiletesters.com.br/|
 |Aldrich|21/05/2019|https://t.me/SeleniumTest|
 |~|21/05/2019|https://testathon.co/more-info---sao-paulo-10th-august/|
 |Israel|21/05/2019|http://www.testathon.com/|
@@ -53,4 +61,9 @@ Atualmente os administradores do grupo são:
 |Ramses|27/05/2019|https://adventuresinqa.com/|
 |Alexandre|27/05/2019|https://www.udemy.com/share/1010nkBEEec11QQXQ=/|
 |Ramses|27/05/2019|https://www.udemy.com/testes-appium/|
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
 
