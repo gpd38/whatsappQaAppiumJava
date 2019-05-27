@@ -51,9 +51,9 @@ Atualmente os administradores do grupo são:
 |   |   |   |
 |   |   |   |
 |   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+|FeLiPe|24/05/2019|https://github.com/appium/appium-doctor/blob/master/README.md|
+|LéL|25/05/2019|https://github.com/menezes-ssz/CucumberAndroidAndIosTestJava/blob/master/pom.xml|
+|Ramses|27/05/2019|https://adventuresinqa.com/|
 |Alexandre|27/05/2019|https://www.udemy.com/share/1010nkBEEec11QQXQ=/|
 |Ramses|27/05/2019|https://www.udemy.com/testes-appium/|
 
