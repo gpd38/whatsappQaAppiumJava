@@ -36,10 +36,16 @@ Atualmente os administradores do grupo são:
 |Sandra|07/02/2019|https://github.com/dieegom/brumadinho_location|
 |Diogo|11/02/2019|https://github.com/kwoding/sonar-webdriver-plugin|
 |Ramses|11/02/2019|https://docs.adaptavist.io/tm4j/cloud/api/v2/#|
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+|Regina|16/02/2019|https://youtu.be/9G5mS_OKT0A|
+|LéL|16/02/2019|https://github.com/menezes-ssz/treinamento-appium-java|
+|FeLiPe|25/02/2019|http://appium.io/docs/en/about-appium/getting-started/#verifying-the-installation|
+|Herbert|01/03/2019|https://drive.google.com/folderview?id=0B_09GivwOi5mZkRQbnJvYmtoaVU|
+|LéL|15/03/2019|https://github.com/menezes-ssz/CucumberTestAndroidWithAppium|
+|Ramses|18/03/2019|http://appium.io/docs/en/writing-running-appium/android/uiautomator-uiselector/|
+|Bruno|20/03/2019|https://gaming.youtube.com/watch?v=KBGJjaG3bJs|
+|Isaias|23/03/2019|https://youtu.be/L5eAe9ZzdvA|
+|Feeh|23/03/2019|[Olhar Digital](https://olhardigital.com.br/noticia/startup-oferece-cursos-gratuitos-de-python-e-react/83983?fbclid=IwAR1apOVNb4yN6bZQlEt4bPSsG8JGw6YCGe1WwOlp3Cs68dNn4-bIu5-f7pw)|
+|Gustavo|23/03/2019|https://programacaopratica.com.br/2019/03/23/250-cursos-gratuitos-da-udemy/|
 |Felipe|25/03/2019|https://stackoverflow.com/questions/34538571/dcucumber-options-how-to-have-multiple-tags|
 |Ramses|26/03/2019|https://marketplace.atlassian.com/apps/1214697/sauce-labs-for-jira?hosting=cloud&tab=overview|
 |Ramses|26/03/2019|https://wiki.saucelabs.com/display/DOCS/Using+Sauce+Labs+with+Continuous+Integration+Platforms|
@@ -67,8 +73,5 @@ Atualmente os administradores do grupo são:
 |Ramses|27/05/2019|https://adventuresinqa.com/|
 |Alexandre|27/05/2019|https://www.udemy.com/share/1010nkBEEec11QQXQ=/|
 |Ramses|27/05/2019|https://www.udemy.com/testes-appium/|
-|   |   |   |
-|   |   |   |
-|   |   |   |
 |   |   |   |
 |   |   |   |
