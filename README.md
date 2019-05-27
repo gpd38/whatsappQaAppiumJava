@@ -40,10 +40,10 @@ Atualmente os administradores do grupo são:
 |   |   |   |
 |   |   |   |
 |   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+|Felipe|25/03/2019|https://stackoverflow.com/questions/34538571/dcucumber-options-how-to-have-multiple-tags|
+|Ramses|26/03/2019|https://marketplace.atlassian.com/apps/1214697/sauce-labs-for-jira?hosting=cloud&tab=overview|
+|Ramses|26/03/2019|https://wiki.saucelabs.com/display/DOCS/Using+Sauce+Labs+with+Continuous+Integration+Platforms|
+|Ramses|26/03/2019|https://swift.org/blog/swift-5-released/|
 |Bruno|15/04/2019|[Cursinho de Xcuitest da applitools](https://testautomationu.applitools.com/introduction-to-ios-test-automation-with-xcuitest/?mkt_tok=eyJpIjoiWkRobE1tRTBNamcxTWpBMiIsInQiOiJVV2dCUlhUMnRaeHl2eUVhTWNzNFFkVmRVNDBqTjk3K09BVkZjYUlhRzQyQkV5M3lGQ1RlWFh5SDJwUXVhVTBhTEVMQ1RpYklNTFZkMmE0NkpsTWo4Z0hnXC9yNWlIWFE1cDEwb2VkY3JESEpFYWJ3eTZpZldXNURMcGZIWHdTNGcifQ%3D%3D)|
 |Marco|26/04/2019|https://www.escoladotrabalhador.gov.br/cursos/|
 |Tiago|26/04/2019|https://johnfergusonsmart.com/page-objects-that-suck-less-tips-for-writing-more-maintainable-page-objects/|
@@ -72,4 +72,3 @@ Atualmente os administradores do grupo são:
 |   |   |   |
 |   |   |   |
 |   |   |   |
-
