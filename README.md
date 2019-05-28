@@ -1,4 +1,4 @@
-# QA-Appium-Java
+# QA-Appium-Java-II
 Diretório utilizado para armazenar informações, materiais e tudo que for interessante que esteja relacionado ao grupo do whatsapp *QA Appium Java ||*
 
 Este grupo de whatsapp foi criado dia 10/11/2018 por Celso Ricardo.
