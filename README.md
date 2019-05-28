@@ -18,7 +18,7 @@ Atualmente os administradores do grupo são:
 |---|---|---|
 |Ramses|21/01/2019|https://appiumpro.com/editions|
 |Ramses|30/01/2019|http://appium.io/docs/en/about-appium/getting-started/|
-|Ramses|30/01/2019|https://docs.npmjs.com/downloading-and-installing-node-js-and-npm#windows-node-version-managers|
+|Ramses|30/01/2019|[https://docs.npmjs.com/downloading-and-installing-node-js-and-npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm#windows-node-version-managers)|
 |Ramses|30/01/2019|http://linuxbrew.sh/|
 |Ramses|30/01/2019|http://appium.io/docs/en/writing-running-appium/server-args/|
 |Ramses|30/01/2019|https://www.udemy.com/topic/appium/|
@@ -26,7 +26,7 @@ Atualmente os administradores do grupo são:
 |Ramses|30/01/2019|http://appium.io/docs/en/advanced-concepts/parallel-tests/|
 |Ramses|30/01/2019|https://github.com/appium/appium/blob/master/CHANGELOG.md|
 |Ramses|31/01/2019|https://github.com/AppiumTestDistribution/AppiumTestDistribution|
-|Ramses|31/01/2019|https://marketplace.atlassian.com/apps/1213259/test-management-for-jira?hosting=cloud&tab=overview|
+|Ramses|31/01/2019|[Atlassian - Test Management for jira](https://marketplace.atlassian.com/apps/1213259/test-management-for-jira?hosting=cloud&tab=overview)|
 |Tiago|31/01/2019|https://youtu.be/10Zzlf5DmSI|
 |Tiago|31/01/2019|https://facebook.github.io/react-native/docs/accessibility|
 |Ramses|01/02/2019|https://github.com/appium/appium-dotnet-driver/wiki/How-to-start-an-AppiumDriver-locally|
@@ -47,7 +47,7 @@ Atualmente os administradores do grupo são:
 |Gustavo|23/03/2019|https://programacaopratica.com.br/2019/03/23/250-cursos-gratuitos-da-udemy/|
 |Felipe|25/03/2019|https://stackoverflow.com/questions/34538571/dcucumber-options-how-to-have-multiple-tags|
 |Ramses|26/03/2019|https://marketplace.atlassian.com/apps/1214697/sauce-labs-for-jira?hosting=cloud&tab=overview|
-|Ramses|26/03/2019|https://wiki.saucelabs.com/display/DOCS/Using+Sauce+Labs+with+Continuous+Integration+Platforms|
+|Ramses|26/03/2019|[Integração Continua](https://wiki.saucelabs.com/display/DOCS/Using+Sauce+Labs+with+Continuous+Integration+Platforms)|
 |Ramses|26/03/2019|https://swift.org/blog/swift-5-released/|
 |Bruno|15/04/2019|[Cursinho de Xcuitest da applitools](https://testautomationu.applitools.com/introduction-to-ios-test-automation-with-xcuitest/?mkt_tok=eyJpIjoiWkRobE1tRTBNamcxTWpBMiIsInQiOiJVV2dCUlhUMnRaeHl2eUVhTWNzNFFkVmRVNDBqTjk3K09BVkZjYUlhRzQyQkV5M3lGQ1RlWFh5SDJwUXVhVTBhTEVMQ1RpYklNTFZkMmE0NkpsTWo4Z0hnXC9yNWlIWFE1cDEwb2VkY3JESEpFYWJ3eTZpZldXNURMcGZIWHdTNGcifQ%3D%3D)|
 |Marco|26/04/2019|https://www.escoladotrabalhador.gov.br/cursos/|
