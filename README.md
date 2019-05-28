@@ -73,11 +73,11 @@ Atualmente os administradores do grupo são:
 |Ramses|27/05/2019|https://adventuresinqa.com/|
 |Alexandre|27/05/2019|https://www.udemy.com/share/1010nkBEEec11QQXQ=/|
 |Ramses|27/05/2019|https://www.udemy.com/testes-appium/|
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+|Ramses|27/05/2019|https://github.com/openstf/stf|
+|Ramses|27/05/2019|https://github.com/AppiumTestDistribution/AppiumTestDistribution|
+|Fabi|27/05/2019|http://qaxperience.com/?mc_cid=d9a29476d8&mc_eid=4b1ab39f18|
+|Ramses|27/05/2019|https://sourcemaking.com/design_patterns|
+|Ramses|27/05/2019|https://medium.com/thiago-aragao/solid-princ%C3%ADpios-da-programa%C3%A7%C3%A3o-orientada-a-objetos-ba7e31d8fb25|
+|Ramses|27/05/2019|https://medium.com/joaorobertopb/1-clean-code-o-que-%C3%A9-porque-usar-1e4f9f4454c6|
 |   |   |   |
 |   |   |   |
