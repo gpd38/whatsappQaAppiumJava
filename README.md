@@ -22,14 +22,13 @@ Atualmente os administradores do grupo são:
 |Ramses|30/01/2019|http://linuxbrew.sh/|
 |Ramses|30/01/2019|http://appium.io/docs/en/writing-running-appium/server-args/|
 |Ramses|30/01/2019|https://www.udemy.com/topic/appium/|
-|Ramses|30/01/2019|https://github.com/appium/java-client/blob/master/docs/The-starting-of-an-app-using-Appium-node-server-started-programmatically.md|
+|Ramses|30/01/2019|[https://github.com/appium/java-client/blob/master/docs](https://github.com/appium/java-client/blob/master/docs/The-starting-of-an-app-using-Appium-node-server-started-programmatically.md)|
 |Ramses|30/01/2019|http://appium.io/docs/en/advanced-concepts/parallel-tests/|
 |Ramses|30/01/2019|https://github.com/appium/appium/blob/master/CHANGELOG.md|
 |Ramses|31/01/2019|https://github.com/AppiumTestDistribution/AppiumTestDistribution|
 |Ramses|31/01/2019|https://marketplace.atlassian.com/apps/1213259/test-management-for-jira?hosting=cloud&tab=overview|
 |Tiago|31/01/2019|https://youtu.be/10Zzlf5DmSI|
 |Tiago|31/01/2019|https://facebook.github.io/react-native/docs/accessibility|
-|Ramses|01/02/2019|https://github.com/appium/java-client/blob/master/docs/The-starting-of-an-app-using-Appium-node-server-started-programmatically.md|
 |Ramses|01/02/2019|https://github.com/appium/appium-dotnet-driver/wiki/How-to-start-an-AppiumDriver-locally|
 |Eduardo|04/02/2019|https://www.npmjs.com/package/html-reporter-mobile-test|
 |Ramses|04/02/2019|https://github.com/facebook/WebDriverAgent/wiki/Class-Chain-Queries-Construction-Rules|
@@ -52,7 +51,7 @@ Atualmente os administradores do grupo são:
 |Ramses|26/03/2019|https://swift.org/blog/swift-5-released/|
 |Bruno|15/04/2019|[Cursinho de Xcuitest da applitools](https://testautomationu.applitools.com/introduction-to-ios-test-automation-with-xcuitest/?mkt_tok=eyJpIjoiWkRobE1tRTBNamcxTWpBMiIsInQiOiJVV2dCUlhUMnRaeHl2eUVhTWNzNFFkVmRVNDBqTjk3K09BVkZjYUlhRzQyQkV5M3lGQ1RlWFh5SDJwUXVhVTBhTEVMQ1RpYklNTFZkMmE0NkpsTWo4Z0hnXC9yNWlIWFE1cDEwb2VkY3JESEpFYWJ3eTZpZldXNURMcGZIWHdTNGcifQ%3D%3D)|
 |Marco|26/04/2019|https://www.escoladotrabalhador.gov.br/cursos/|
-|Tiago|26/04/2019|https://johnfergusonsmart.com/page-objects-that-suck-less-tips-for-writing-more-maintainable-page-objects/|
+|Tiago|26/04/2019|[https://johnfergusonsmart.com/page-objects...](https://johnfergusonsmart.com/page-objects-that-suck-less-tips-for-writing-more-maintainable-page-objects/)|
 |Toni|26/04/2019|https://dzone.com/articles/page-objects-refactored-solid-steps-to-the-screenp|
 |Toni|26/04/2019|https://github.com/wix/Detox|
 |Diogo|29/04/2019|https://testflight.apple.com/join/dCHPgTEO|
@@ -77,7 +76,11 @@ Atualmente os administradores do grupo são:
 |Ramses|27/05/2019|https://github.com/AppiumTestDistribution/AppiumTestDistribution|
 |Fabi|27/05/2019|http://qaxperience.com/?mc_cid=d9a29476d8&mc_eid=4b1ab39f18|
 |Ramses|27/05/2019|https://sourcemaking.com/design_patterns|
-|Ramses|27/05/2019|https://medium.com/thiago-aragao/solid-princ%C3%ADpios-da-programa%C3%A7%C3%A3o-orientada-a-objetos-ba7e31d8fb25|
+|Ramses|27/05/2019|[Medium - Thiago Aragão - Principios da programação OO](https://medium.com/thiago-aragao/solid-princ%C3%ADpios-da-programa%C3%A7%C3%A3o-orientada-a-objetos-ba7e31d8fb25)|
 |Ramses|27/05/2019|https://medium.com/joaorobertopb/1-clean-code-o-que-%C3%A9-porque-usar-1e4f9f4454c6|
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
 |   |   |   |
 |   |   |   |
