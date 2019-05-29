@@ -19,9 +19,9 @@ Atualmente os administradores do grupo são:
 |Ramses|21/01/2019|https://appiumpro.com/editions|3x|
 |Ramses|30/01/2019|http://appium.io/docs/en/about-appium/getting-started/|2x|
 |Ramses|30/01/2019|[https://docs.npmjs.com/downloading-and-installing-node-js-and-npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm#windows-node-version-managers)|1x|
-|Ramses|30/01/2019|http://linuxbrew.sh/||
-|Ramses|30/01/2019|http://appium.io/docs/en/writing-running-appium/server-args/||
-|Ramses|30/01/2019|https://www.udemy.com/topic/appium/||
+|Ramses|30/01/2019|http://linuxbrew.sh/|1x|
+|Ramses|30/01/2019|http://appium.io/docs/en/writing-running-appium/server-args/|2x|
+|Ramses|30/01/2019|https://www.udemy.com/topic/appium/|1x|
 |Ramses|30/01/2019|[https://github.com/appium/java-client/blob/master/docs](https://github.com/appium/java-client/blob/master/docs/The-starting-of-an-app-using-Appium-node-server-started-programmatically.md)||
 |Ramses|30/01/2019|http://appium.io/docs/en/advanced-concepts/parallel-tests/||
 |Ramses|30/01/2019|https://github.com/appium/appium/blob/master/CHANGELOG.md||
