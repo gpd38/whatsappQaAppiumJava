@@ -79,8 +79,8 @@ Atualmente os administradores do grupo são:
 |Ramses|27/05/2019|[Medium - Thiago Aragão - Principios da programação OO](https://medium.com/thiago-aragao/solid-princ%C3%ADpios-da-programa%C3%A7%C3%A3o-orientada-a-objetos-ba7e31d8fb25)||
 |Ramses|27/05/2019|https://medium.com/joaorobertopb/1-clean-code-o-que-%C3%A9-porque-usar-1e4f9f4454c6||
 |Ramses|29/05/2019|https://github.com/appium/appium-for-mac/issues/57|1x|
-|   |   |   |   |
-|   |   |   |   |
+|Ramses|29/05/2019|https://designfilia.com.br/sindrome-do-impostor-saiba-por-que/|1x|
+|Ramses|29/05/2019|https://github.com/visionmedia/supertest|1x|
 |   |   |   |   |
 |   |   |   |   |
 |   |   |   |   |
