@@ -81,6 +81,9 @@ Atualmente os administradores do grupo são:
 |Ramses|29/05/2019|https://github.com/appium/appium-for-mac/issues/57|1x|
 |Ramses|29/05/2019|https://designfilia.com.br/sindrome-do-impostor-saiba-por-que/|1x|
 |Ramses|29/05/2019|https://github.com/visionmedia/supertest|1x|
+|Rafael|30/05/2019|https://www.npmjs.com/package/multiple-cucumber-html-reporter|1x|
+|Ramses|30/05/2019|https://wiki.jenkins.io/display/JENKINS/Allure+Plugin|1x|
+|Ramses|30/05/2019|https://www.qaautomation.co.in/2018/09/extent-report-setup-in-jenkins.html|1x|
 |   |   |   |   |
 |   |   |   |   |
 |   |   |   |   |
