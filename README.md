@@ -84,6 +84,16 @@ Atualmente os administradores do grupo são:
 |Rafael|30/05/2019|https://www.npmjs.com/package/multiple-cucumber-html-reporter|1x|
 |Ramses|30/05/2019|https://wiki.jenkins.io/display/JENKINS/Allure+Plugin|1x|
 |Ramses|30/05/2019|https://www.qaautomation.co.in/2018/09/extent-report-setup-in-jenkins.html|1x|
+|Alexandre|31/05/2019|https://t.me/javabr|1x|
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
 |   |   |   |   |
 |   |   |   |   |
 |   |   |   |   |
