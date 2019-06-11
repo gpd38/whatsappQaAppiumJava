@@ -85,15 +85,21 @@ Atualmente os administradores do grupo são:
 |Ramses|30/05/2019|https://wiki.jenkins.io/display/JENKINS/Allure+Plugin|1x|
 |Ramses|30/05/2019|https://www.qaautomation.co.in/2018/09/extent-report-setup-in-jenkins.html|1x|
 |Alexandre|31/05/2019|https://t.me/javabr|1x|
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+|Marcos|31/05/2019|https://aws.amazon.com/pt/device-farm/|1x|
+|Reinaldo|31/05/2019|https://github.com/reinaldorossetti/automationpractice_mobile/blob/master/Gemfile|1x|
+|Ramses|01/06/2019|https://www.eximia.tech/pt/2019/05/31/somos-amadores-remunerados/|1x|
+|Andressa|03/06/2019|https://chat.whatsapp.com/4empluOQyXnLNIeNzhjtkY|1x|
+|Gabi's|03/06/2019|http://meetu.ps/e/GPzsc/J5XbV/f|1x|
+|Ramses|04/06/2019|https://developer.apple.com/videos/play/wwdc2019/413|1x|
+|Ramses|04/06/2019|https://www.udemy.com/course/java-curso-completo/|1x|
+|Max|04/06/2019|https://www.devmedia.com.br/guia/spring-framework/37806|1x|
+|Felipe|04/06/2019|[Artigo Cucumber BDD Medium](https://medium.com/agile-vision/cucumber-bdd-part-2-creating-a-sample-java-project-with-cucumber-testng-and-maven-127a1053c180)|1x|
+|Ramses|05/06/2019|https://developer.apple.com/videos/wwdc2019|1x|
+|Ramses|06/06/2019|https://twitter.com/ZhekaKozlov/status/1135506701438857217|1x|
+|Ramses|06/06/2019|https://developer.android.com/training/basics/firstapp|1x|
+|Tiago|06/06/2019|https://confengine.com/appium-conf-2019/schedule|1x|
+|Ramses|07/06/2019|https://www.freecodecamp.org/news/java-for-absolute-beginners-full-course/|1x|
+|Ramses|07/06/2019|https://github.com/isonic1/Appium-Native-Crawler|1x|
+|Diogo|09/06/2019|https://github.com/openstf/stf|1x|
+|Tiago|10/06/2019|https://rocketseat.com.br/week-7/inscricao|1x|
+|Ramses|10/06/2019|https://testautomationu.applitools.com/java-programming-course/|1x|
