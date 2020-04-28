@@ -104,3 +104,10 @@ chat.whatsapp.com/DluDizleefE6pdoJMhTtx0
 |Tiago|10/06/2019|https://rocketseat.com.br/week-7/inscricao|1x|
 |Ramses|10/06/2019|https://testautomationu.applitools.com/java-programming-course/|1x|
 |Ramses|11/06/2019|https://gist.github.com/jlipps/651b62316603400cabc95ff0f9faf70f|1x|
+||||
+||||
+||||
+||||
+
+
+
