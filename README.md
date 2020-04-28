@@ -10,7 +10,8 @@ Atualmente os administradores do grupo são:
 
 ### Link do grupo
 
-[https://chat.whatsapp.com/DluDizleefE6pdoJMhTtx0](https://chat.whatsapp.com/DluDizleefE6pdoJMhTtx0)
+
+https://chat.whatsapp.com/DluDizleefE6pdoJMhTtx0
 
 ### Links postados no grupo
 
