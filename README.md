@@ -351,11 +351,11 @@ chat.whatsapp.com/DluDizleefE6pdoJMhTtx0
 |Bruno Batista|18/06/2020|[Meetup Café, Teste e Pão de Queijo](https://www.meetup.com/pt-BR/Cafe-testes-e-pao-de-queijo)||
 |Manu|18/06/2020|https://www.youtube.com/channel/UC_U9lse98wBx5t2MGyAflvg||
 ||24/06/2020|[Grupo Discord QA Overflow](https://discord.gg/bnaPRsX)||
-|||||
-|||||
-|||||
-|||||
-|||||
+|Reinaldo|08/07/2020|https://developer.android.com/studio/command-line/adb?hl=pt-br||
+|Bruno Batista|10/07/2020|https://github.com/clarabez/appium||
+|Fah|11/07/2020|[Convite Duolingo](https://invite.duolingo.com/BDHTZTB5CWWKSVKQYUSSYRIY74)||
+|Eduardo Finotti|28/07/2020|[QAzando](https://www.qazando.com.br/)||
+|Tiago Cesar|29/07/2020|https://play.google.com/store/apps/details?id=com.wt.apkinfo||
 |||||
 |||||
 |||||
