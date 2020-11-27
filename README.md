@@ -334,8 +334,8 @@ chat.whatsapp.com/DluDizleefE6pdoJMhTtx0
 ||14/04/2020|https://medium.com/beelabacademy/utilizando-appium-e-testng-como-alternativa-para-execu%C3%A7%C3%A3o-em-paralelo-de-testes-mobile-2ca99e505307||
 ||15/04/2020|https://www.figma.com/||
 |Bruno Batista|22/04/2020|https://open.spotify.com/episode/4v6EzwhUNpSyrhndqxdo7I?si=gq7MDjpgR4GIEC8PFWGHIA||
-|||||
-|||||
+|Fah|23/04/2020|https://viral-loops.com/||
+|Saymon|27/04/2020|https://project-awesome.org/SrinivasanTarget/awesome-appium||
 |||||
 |||||
 |||||
