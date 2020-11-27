@@ -358,13 +358,7 @@ chat.whatsapp.com/DluDizleefE6pdoJMhTtx0
 |Tiago Cesar|29/07/2020|https://play.google.com/store/apps/details?id=com.wt.apkinfo||
 |Franclin|15/08/2020|[Grupo de Testadores de Software da Bahia](https://linktr.ee/gtsba)||
 |Franclin|25/08/2020|[GTs-BA](https://www.youtube.com/channel/UC5kPs-cmlKeNbErmL98IC2g)||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
+|Tiago Cesar|11/09/2020|[QArentena](https://www.youtube.com/watch?v=QBP_9XhzDfA&list=PL-AKz4Dl9nK91AZdEDFpY3u7yYeFKLa8l)||
+|Tiago Cesar|11/09/2020|https://automationstepbystep.com/online-courses/||
+|Franclin|17/10/2020|https://www.youtube.com/watch?v=2N_5TbC4IcM||
+|Saymon|17/10/2020|[BrowseStack](https://app-automate.browserstack.com/dashboard/v2/getting-started?source=%27home%27)||
