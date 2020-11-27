@@ -336,21 +336,21 @@ chat.whatsapp.com/DluDizleefE6pdoJMhTtx0
 |Bruno Batista|22/04/2020|https://open.spotify.com/episode/4v6EzwhUNpSyrhndqxdo7I?si=gq7MDjpgR4GIEC8PFWGHIA||
 |Fah|23/04/2020|https://viral-loops.com/||
 |Saymon|27/04/2020|https://project-awesome.org/SrinivasanTarget/awesome-appium||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
+|Tiago Cesar|04/05/2020|https://www.youtube.com/watch?v=2USszBtyQnQ&feature=youtu.be||
+|Bruno Batista|08/05/2020|https://www.instagram.com/p/B-njVSFFrRC/?igshid=q3k3hnn6isq6||
+|Saymon|22/05/2020|https://github.com/appium/appium-doctor||
+|Thiago|22/05/2020|https://www.youtube.com/watch?v=6QDhaEdZRm4||
+|Saymon|25/05/2020|https://www.seleniumeasy.com/selenium-tutorials/creating-extent-reports-in-selenium-example||
+|Ricardinho|26/05/2020|https://www.youtube.com/channel/UCQ-8s5xln0mtxfOSoN3cXrw||
+||27/05/2020|https://appiumpro.com/editions/95-the-android-data-matcher-locator-strategy||
+|Fah|27/05/2020|[Curso Gratis](https://digitalinnovation.one/sign-up?ref=37ZVDXK125)||
+|Tiago Cesar|02/06/2020|https://github.com/sayems/java.appium||
+|Tiago Cesar|03/06/2020|https://github.com/microsoft/WinAppDriver||
+|Saymon|16/06/2020|https://testautomationu.applitools.com/introduction-to-ios-test-automation-with-xcuitest/chapter1.html||
+|Gustavo|16/06/2020|[Grupo Telegram](https://t.me/UItestWorkshop)||
+|Bruno Batista|18/06/2020|[Meetup Café, Teste e Pão de Queijo](https://www.meetup.com/pt-BR/Cafe-testes-e-pao-de-queijo)||
+|Manu|18/06/2020|https://www.youtube.com/channel/UC_U9lse98wBx5t2MGyAflvg||
+||24/06/2020|[Grupo Discord QA Overflow](https://discord.gg/bnaPRsX)||
 |||||
 |||||
 |||||
