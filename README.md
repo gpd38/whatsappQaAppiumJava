@@ -356,8 +356,8 @@ chat.whatsapp.com/DluDizleefE6pdoJMhTtx0
 |Fah|11/07/2020|[Convite Duolingo](https://invite.duolingo.com/BDHTZTB5CWWKSVKQYUSSYRIY74)||
 |Eduardo Finotti|28/07/2020|[QAzando](https://www.qazando.com.br/)||
 |Tiago Cesar|29/07/2020|https://play.google.com/store/apps/details?id=com.wt.apkinfo||
-|||||
-|||||
+|Franclin|15/08/2020|[Grupo de Testadores de Software da Bahia](https://linktr.ee/gtsba)||
+|Franclin|25/08/2020|[GTs-BA](https://www.youtube.com/channel/UC5kPs-cmlKeNbErmL98IC2g)||
 |||||
 |||||
 |||||
