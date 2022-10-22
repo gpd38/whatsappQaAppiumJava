@@ -362,3 +362,5 @@ chat.whatsapp.com/DluDizleefE6pdoJMhTtx0
 |Tiago Cesar|11/09/2020|https://automationstepbystep.com/online-courses/||
 |Franclin|17/10/2020|https://www.youtube.com/watch?v=2N_5TbC4IcM||
 |Saymon|17/10/2020|[BrowseStack](https://app-automate.browserstack.com/dashboard/v2/getting-started?source=%27home%27)||
+|...|...|...|...|
+|Eduardo Finotti|30/01/2022|[Help site automação](http://automationpratice.com.br/)|1x|
