@@ -364,3 +364,5 @@ chat.whatsapp.com/DluDizleefE6pdoJMhTtx0
 |Saymon|17/10/2020|[BrowseStack](https://app-automate.browserstack.com/dashboard/v2/getting-started?source=%27home%27)||
 |...|...|...|...|
 |Eduardo Finotti|30/01/2022|[Help site automação](http://automationpratice.com.br/)|1x|
+||24/10/2022|[Configuração do Appium, Intellij, AndroidStudio/SDK, Adb, Appium e AppiumInspector](https://www.youtube.com/watch?v=iDKjikAdc98&list=PLruAZvtLCirNkQEa8HbY1qVBs7-89Jcv8&ab_channel=TiagoSamuel)|1x|
+||24/10/2022|[Projeto de Testes Automatizados](https://gitlab.com/tteixeira-testautomation/automacao-testes-mobile-projects/curso-automacao-mobile)|1x|
